@@ -173,6 +173,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Plug 'romgrk/lib.kom'
     " Plug 'brooth/far.vim'
     " Debugging
+    " Puppet
+    Plug 'rodjek/vim-puppet'
   endif
 
 call plug#end()
