@@ -64,6 +64,7 @@ else
   " source $HOME/.config/nvim/plug-config/ale.vim
 endif
 source $HOME/.config/nvim/plug-config/quickscope.vim
+source $HOME/.config/nvim/plug-config/vim-markdown-toc.vim
 
 " Add paths to node and python here
 if !empty(glob("~/.config/nvim/paths.vim"))

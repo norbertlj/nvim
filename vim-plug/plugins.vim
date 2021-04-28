@@ -175,6 +175,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Debugging
     " Puppet
     Plug 'rodjek/vim-puppet'
+    " Markdown Table of Content
+    Plug 'mzlogin/vim-markdown-toc'
   endif
 
 call plug#end()
